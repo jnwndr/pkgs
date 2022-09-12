@@ -12,9 +12,9 @@ In the meantime, following the [**adminR-Spring Meetup in Aarau**](https://www.m
 Ideally, the listed packages or scripts are publicly available, either on CRAN or on GitHub. If this is not possible, an entry should explain how one could get to the package. You may also list interesting packages that are not yet public.
 
 
-### How to list your package
+### How to list your package or script
 
-To list your R package:
+To list your R code:
 
 - Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended),
 - or send us [an email](ronald.indergand@seco.admin.ch).
