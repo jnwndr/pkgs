@@ -1,4 +1,7 @@
 # AdminR Code Base
+<body>
+<i class="fa fa-r-project"></i>
+</body>
 
 >A curated list of R packages & R code created and used by Swiss public institutions
 
