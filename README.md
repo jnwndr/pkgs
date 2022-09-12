@@ -1,12 +1,8 @@
 # AdminR Code Base
-<body>
-<i class="fa fa-r-project"></i>
-</body>
 
 >A curated list of R packages & R code created and used by Swiss public institutions
 
-
-### About
+### About 
 
 Mid 2021, we started to collect and classify R packages that are are created and used by Swiss statistical offices to facilitate collaboration and reduce duplication. We presented and discussed this first list on the adminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/images/pdfs/2021/Programm_Statistiktage_2021.pdf) on the 6th of September 2021 in Lugano.
 
@@ -19,10 +15,12 @@ Ideally, the listed packages or scripts are publicly available, either on CRAN o
 
 To list your R code:
 
-- Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended),
-- or send us [an email](ronald.indergand@seco.admin.ch).
+- Write a comment on issue [#1](https://github.com/swiss-adminR/pkgs/issues/1) (recommended) :heavy_check_mark:
+- or send us [an email](ronald.indergand@seco.admin.ch) :heavy_check_mark:
 
-Please inclue a title, a short description and mention the users of your package. Have a look at the first entry for a reference.
+:eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts. 
+
+>Have a look at the first entry for a reference.
 
 
 
