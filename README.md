@@ -1,11 +1,11 @@
-# AdminR Packages
+# AdminR Code Base
 
-A curated list of R packages created and used by Swiss public institutions
+>A curated list of R packages & R code created and used by Swiss public institutions
 
 
 ### About
 
-We try to collect and classify R packages that are are created and used by Swiss statistical offices. This should facilitate collaboration and reduce duplication. We presented and discussed this list on the adminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/images/pdfs/2021/Programm_Statistiktage_2021.pdf) on the 6th of September 2021 in Lugano.
+Mid 2021, we started to collect and classify R packages that are are created and used by Swiss statistical offices to facilitate collaboration and reduce duplication. We presented and discussed this first list on the adminR Session at the [**Swiss Statistics Meeting 2021**](https://www.statistiktage.ch/images/pdfs/2021/Programm_Statistiktage_2021.pdf) on the 6th of September 2021 in Lugano.
 
 In the meantime, following the [**adminR-Spring Meetup in Aarau**](https://www.meetup.com/adminr/events/285121068/) (May 31 2022), we have further developed the idea to build and curate a set of R packages or R code in general as an infrastructure for federal and cantonal official statistics. 
 
