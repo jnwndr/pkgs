@@ -22,12 +22,15 @@ To list your R code:
 
 
 
----
-**NOTE**
 
-Have a look at the first entry for a reference.
+>>>
+If you paste a message from somewhere else
 
----
+that spans multiple lines,
+
+you can quote that without having to manually prepend `>` to every line!
+>>>
+!(https://docs.gitlab.com/ee/user/img/markdown_logo.png)
 
 
 ## Data Handling
