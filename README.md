@@ -20,9 +20,14 @@ To list your R code:
 
 :eight_pointed_black_star: Please include a title, a short description and mention the users of your package or scripts. 
 
->Have a look at the first entry for a reference.
 
 
+---
+**NOTE**
+
+Have a look at the first entry for a reference.
+
+---
 
 
 ## Data Handling
